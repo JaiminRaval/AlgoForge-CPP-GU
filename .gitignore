@@ -1,0 +1,4 @@
+# Ignore C++ executables
+*.exe
+*.out
+a.out  # Default output from g++ on Unix-like systems
