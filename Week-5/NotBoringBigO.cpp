@@ -7,11 +7,8 @@ using namespace std; // this line does the magic remember!
 // Constant Time O(1), simple return func;
 // Step: No loop, no recursion. Doesn't depend on n. So O(1).[23][26]
 int getFirstElement(int arr[], int n) {
-    return arr;
+    return arr[0];
 }
-
-
-
 
 // Linear Time: O(n), simple sum func;
 // Step: Single loop from 0 to n. Time grows linearly with n. So O(n).[23][26][27]
@@ -53,6 +50,9 @@ int binarySearch(int arr[], int n, int target) {
 
 
 
+void merge(int arr[], int l, int m, int r) {
+    // merge code will come here
+}
 
 // O(nlogn), func for Merge Sort;
 // Step: Recursively divides array; merge operation is O(n). Total is O(n log n).[26][30]
