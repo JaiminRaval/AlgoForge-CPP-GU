@@ -8,10 +8,10 @@ This repository is a curated collection of C++ implementations for classic and a
 We are learning Data Structures from the first principles thinking. so don't assume any thing
 
 ## Slides
-Google slides link:
+Google slides link: https://docs.google.com/presentation/d/1FrT6Ww9VJkm9zSwqDfTajQH8IDbLIqGo9dUAAvSFbzk
 
-Notion link(s):
+Notion link(s): https://www.notion.so/DSAlgo-C-Practice-Questions-List-26eb62dbd3fc806090c9dc6ea4554e67
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE), Use it for leaning & growing folks.
